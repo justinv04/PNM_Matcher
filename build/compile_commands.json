@@ -1,0 +1,26 @@
+[
+{
+  "directory": "/Users/jvincent/Desktop/Projects/Coding_Projects/C++_Projects/PNM_Matcher/build",
+  "command": "/usr/bin/clang++   -g -std=gnu++17 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.6 -Wall -Wextra -pedantic -g -o CMakeFiles/palMatcher.dir/main.cpp.o -c /Users/jvincent/Desktop/Projects/Coding_Projects/C++_Projects/PNM_Matcher/main.cpp",
+  "file": "/Users/jvincent/Desktop/Projects/Coding_Projects/C++_Projects/PNM_Matcher/main.cpp",
+  "output": "CMakeFiles/palMatcher.dir/main.cpp.o"
+},
+{
+  "directory": "/Users/jvincent/Desktop/Projects/Coding_Projects/C++_Projects/PNM_Matcher/build",
+  "command": "/usr/bin/clang++   -g -std=gnu++17 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.6 -Wall -Wextra -pedantic -g -o CMakeFiles/palMatcher.dir/palMatcher.cpp.o -c /Users/jvincent/Desktop/Projects/Coding_Projects/C++_Projects/PNM_Matcher/palMatcher.cpp",
+  "file": "/Users/jvincent/Desktop/Projects/Coding_Projects/C++_Projects/PNM_Matcher/palMatcher.cpp",
+  "output": "CMakeFiles/palMatcher.dir/palMatcher.cpp.o"
+},
+{
+  "directory": "/Users/jvincent/Desktop/Projects/Coding_Projects/C++_Projects/PNM_Matcher/build",
+  "command": "/usr/bin/clang++   -g -std=gnu++17 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.6 -Wall -Wextra -pedantic -g -o CMakeFiles/palMatcher.dir/PNM.cpp.o -c /Users/jvincent/Desktop/Projects/Coding_Projects/C++_Projects/PNM_Matcher/PNM.cpp",
+  "file": "/Users/jvincent/Desktop/Projects/Coding_Projects/C++_Projects/PNM_Matcher/PNM.cpp",
+  "output": "CMakeFiles/palMatcher.dir/PNM.cpp.o"
+},
+{
+  "directory": "/Users/jvincent/Desktop/Projects/Coding_Projects/C++_Projects/PNM_Matcher/build",
+  "command": "/usr/bin/clang++   -g -std=gnu++17 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.6 -Wall -Wextra -pedantic -g -o CMakeFiles/palMatcher.dir/csvReader.cpp.o -c /Users/jvincent/Desktop/Projects/Coding_Projects/C++_Projects/PNM_Matcher/csvReader.cpp",
+  "file": "/Users/jvincent/Desktop/Projects/Coding_Projects/C++_Projects/PNM_Matcher/csvReader.cpp",
+  "output": "CMakeFiles/palMatcher.dir/csvReader.cpp.o"
+}
+]
